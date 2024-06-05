@@ -1,7 +1,9 @@
 spring:
   application:
     name: googoo
-
+---
+server:
+  port: 9000
 ---
 spring:
   datasource:
